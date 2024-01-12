@@ -1,0 +1,157 @@
+C:\cs2010\ch16\CommandDemo2\bin\Debug\CommandDemo2.exe
+C:\cs2010\ch16\CommandDemo2\bin\Debug\CommandDemo2.pdb
+C:\cs2010\ch16\CommandDemo2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch16\CommandDemo2\obj\x86\Debug\CommandDemo2.Form1.resources
+C:\cs2010\ch16\CommandDemo2\obj\x86\Debug\CommandDemo2.Properties.Resources.resources
+C:\cs2010\ch16\CommandDemo2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch16\CommandDemo2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch16\CommandDemo2\obj\x86\Debug\CommandDemo2.exe
+C:\cs2010\ch16\CommandDemo2\obj\x86\Debug\CommandDemo2.pdb
+C:\cs2012\ch16\CommandDemo2\obj\x86\Debug\CommandDemo2.exe
+C:\cs2012\ch16\CommandDemo2\obj\x86\Debug\CommandDemo2.pdb
+C:\cs2012\ch16\CommandDemo2\bin\Debug\CommandDemo2.exe
+C:\cs2012\ch16\CommandDemo2\bin\Debug\CommandDemo2.pdb
+C:\cs2012\ch16\CommandDemo2\obj\x86\Debug\CommandDemo2.Form1.resources
+C:\cs2012\ch16\CommandDemo2\obj\x86\Debug\CommandDemo2.Properties.Resources.resources
+C:\cs2012\ch16\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.GenerateResource.Cache
+C:\cs2013\ch17\CommandDemo2\obj\x86\Debug\CommandDemo2.exe
+C:\cs2013\ch17\CommandDemo2\obj\x86\Debug\CommandDemo2.pdb
+C:\cs2013\ch17\CommandDemo2\bin\Debug\CommandDemo2.exe
+C:\cs2013\ch17\CommandDemo2\bin\Debug\CommandDemo2.pdb
+C:\cs2013\ch17\CommandDemo2\obj\x86\Debug\CommandDemo2.csprojResolveAssemblyReference.cache
+C:\cs2013\ch17\CommandDemo2\obj\x86\Debug\CommandDemo2.Form1.resources
+C:\cs2013\ch17\CommandDemo2\obj\x86\Debug\CommandDemo2.Properties.Resources.resources
+C:\cs2013\ch17\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.GenerateResource.Cache
+C:\cs2013\ch17\CommandDemo2鄉鄉鄉\obj\x86\Debug\CommandDemo2.exe
+C:\cs2013\ch17\CommandDemo2鄉鄉鄉\obj\x86\Debug\CommandDemo2.pdb
+C:\cs2015\ch17\CommandDemo2\obj\x86\Debug\CommandDemo2.exe
+C:\cs2015\ch17\CommandDemo2\obj\x86\Debug\CommandDemo2.pdb
+C:\cs2015\ch17\CommandDemo2\bin\Debug\CommandDemo2.exe
+C:\cs2015\ch17\CommandDemo2\bin\Debug\CommandDemo2.pdb
+C:\cs2015\ch17\CommandDemo2\obj\x86\Debug\CommandDemo2.csprojResolveAssemblyReference.cache
+C:\cs2015\ch17\CommandDemo2\obj\x86\Debug\CommandDemo2.Form1.resources
+C:\cs2015\ch17\CommandDemo2\obj\x86\Debug\CommandDemo2.Properties.Resources.resources
+C:\cs2015\ch17\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.GenerateResource.Cache
+C:\cs2017\ch17\CommandDemo2\bin\Debug\CommandDemo2.exe
+C:\cs2017\ch17\CommandDemo2\bin\Debug\CommandDemo2.pdb
+C:\cs2017\ch17\CommandDemo2\obj\x86\Debug\CommandDemo2.csprojResolveAssemblyReference.cache
+C:\cs2017\ch17\CommandDemo2\obj\x86\Debug\CommandDemo2.Form1.resources
+C:\cs2017\ch17\CommandDemo2\obj\x86\Debug\CommandDemo2.Properties.Resources.resources
+C:\cs2017\ch17\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.GenerateResource.Cache
+C:\cs2017\ch17\CommandDemo2\obj\x86\Debug\CommandDemo2.exe
+C:\cs2017\ch17\CommandDemo2\obj\x86\Debug\CommandDemo2.pdb
+C:\cs2019\ch18\CommandDemo2\bin\Debug\CommandDemo2.exe
+C:\cs2019\ch18\CommandDemo2\bin\Debug\CommandDemo2.pdb
+C:\cs2019\ch18\CommandDemo2\obj\x86\Debug\CommandDemo2.csprojAssemblyReference.cache
+C:\cs2019\ch18\CommandDemo2\obj\x86\Debug\CommandDemo2.Form1.resources
+C:\cs2019\ch18\CommandDemo2\obj\x86\Debug\CommandDemo2.Properties.Resources.resources
+C:\cs2019\ch18\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.GenerateResource.cache
+C:\cs2019\ch18\CommandDemo2\obj\x86\Debug\CommandDemo2.exe
+C:\cs2019\ch18\CommandDemo2\obj\x86\Debug\CommandDemo2.pdb
+C:\Users\student\Downloads\ch18 (1)\ch18\CommandDemo2\bin\Debug\CommandDemo2.exe
+C:\Users\student\Downloads\ch18 (1)\ch18\CommandDemo2\bin\Debug\CommandDemo2.pdb
+C:\Users\student\Downloads\ch18 (1)\ch18\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\ch18 (1)\ch18\CommandDemo2\obj\x86\Debug\CommandDemo2.Form1.resources
+C:\Users\student\Downloads\ch18 (1)\ch18\CommandDemo2\obj\x86\Debug\CommandDemo2.Properties.Resources.resources
+C:\Users\student\Downloads\ch18 (1)\ch18\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.GenerateResource.cache
+C:\Users\student\Downloads\ch18 (1)\ch18\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\ch18 (1)\ch18\CommandDemo2\obj\x86\Debug\CommandDemo2.exe
+C:\Users\student\Downloads\ch18 (1)\ch18\CommandDemo2\obj\x86\Debug\CommandDemo2.pdb
+C:\Users\student\Desktop\CommandDemo2\bin\Debug\CommandDemo2.exe
+C:\Users\student\Desktop\CommandDemo2\bin\Debug\CommandDemo2.pdb
+C:\Users\student\Desktop\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\CommandDemo2\obj\x86\Debug\CommandDemo2.Form1.resources
+C:\Users\student\Desktop\CommandDemo2\obj\x86\Debug\CommandDemo2.Properties.Resources.resources
+C:\Users\student\Desktop\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.GenerateResource.cache
+C:\Users\student\Desktop\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\CommandDemo2\obj\x86\Debug\CommandDemo2.exe
+C:\Users\student\Desktop\CommandDemo2\obj\x86\Debug\CommandDemo2.pdb
+C:\Users\user\OneDrive\桌面\第二組 (1)\CommandDemo2\bin\Debug\CommandDemo2.exe
+C:\Users\user\OneDrive\桌面\第二組 (1)\CommandDemo2\bin\Debug\CommandDemo2.pdb
+C:\Users\user\OneDrive\桌面\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\桌面\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.Form1.resources
+C:\Users\user\OneDrive\桌面\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.Properties.Resources.resources
+C:\Users\user\OneDrive\桌面\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\桌面\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\桌面\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.exe
+C:\Users\user\OneDrive\桌面\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.pdb
+C:\Users\林鈞毅\Desktop\1115eye\第二組 (1)\CommandDemo2\bin\Debug\CommandDemo2.exe
+C:\Users\林鈞毅\Desktop\1115eye\第二組 (1)\CommandDemo2\bin\Debug\CommandDemo2.pdb
+C:\Users\林鈞毅\Desktop\1115eye\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.AssemblyReference.cache
+C:\Users\林鈞毅\Desktop\1115eye\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.Form1.resources
+C:\Users\林鈞毅\Desktop\1115eye\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.Properties.Resources.resources
+C:\Users\林鈞毅\Desktop\1115eye\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.GenerateResource.cache
+C:\Users\林鈞毅\Desktop\1115eye\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.CoreCompileInputs.cache
+C:\Users\林鈞毅\Desktop\1115eye\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.exe
+C:\Users\林鈞毅\Desktop\1115eye\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.pdb
+C:\Users\user\Downloads\1116專題Eye\第二組 (1)\CommandDemo2\bin\Debug\CommandDemo2.exe.config
+C:\Users\user\Downloads\1116專題Eye\第二組 (1)\CommandDemo2\bin\Debug\CommandDemo2.exe
+C:\Users\user\Downloads\1116專題Eye\第二組 (1)\CommandDemo2\bin\Debug\CommandDemo2.pdb
+C:\Users\user\Downloads\1116專題Eye\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\1116專題Eye\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\1116專題Eye\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.Form1.resources
+C:\Users\user\Downloads\1116專題Eye\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.Properties.Resources.resources
+C:\Users\user\Downloads\1116專題Eye\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.GenerateResource.cache
+C:\Users\user\Downloads\1116專題Eye\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\1116專題Eye\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.exe
+C:\Users\user\Downloads\1116專題Eye\第二組 (1)\CommandDemo2\obj\x86\Debug\CommandDemo2.pdb
+C:\Users\林鈞毅\Desktop\1116專題Eye\CommandDemo2\bin\Debug\CommandDemo2.exe.config
+C:\Users\林鈞毅\Desktop\1116專題Eye\CommandDemo2\bin\Debug\CommandDemo2.exe
+C:\Users\林鈞毅\Desktop\1116專題Eye\CommandDemo2\bin\Debug\CommandDemo2.pdb
+C:\Users\林鈞毅\Desktop\1116專題Eye\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.AssemblyReference.cache
+C:\Users\林鈞毅\Desktop\1116專題Eye\CommandDemo2\obj\x86\Debug\CommandDemo2.Form1.resources
+C:\Users\林鈞毅\Desktop\1116專題Eye\CommandDemo2\obj\x86\Debug\CommandDemo2.Properties.Resources.resources
+C:\Users\林鈞毅\Desktop\1116專題Eye\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.GenerateResource.cache
+C:\Users\林鈞毅\Desktop\1116專題Eye\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.CoreCompileInputs.cache
+C:\Users\林鈞毅\Desktop\1116專題Eye\CommandDemo2\obj\x86\Debug\CommandDemo2.exe
+C:\Users\林鈞毅\Desktop\1116專題Eye\CommandDemo2\obj\x86\Debug\CommandDemo2.pdb
+C:\Users\林鈞毅\Desktop\11_22專題\CommandDemo2\bin\Debug\CommandDemo2.exe.config
+C:\Users\林鈞毅\Desktop\11_22專題\CommandDemo2\bin\Debug\CommandDemo2.exe
+C:\Users\林鈞毅\Desktop\11_22專題\CommandDemo2\bin\Debug\CommandDemo2.pdb
+C:\Users\林鈞毅\Desktop\11_22專題\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.AssemblyReference.cache
+C:\Users\林鈞毅\Desktop\11_22專題\CommandDemo2\obj\x86\Debug\CommandDemo2.Form1.resources
+C:\Users\林鈞毅\Desktop\11_22專題\CommandDemo2\obj\x86\Debug\CommandDemo2.Properties.Resources.resources
+C:\Users\林鈞毅\Desktop\11_22專題\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.GenerateResource.cache
+C:\Users\林鈞毅\Desktop\11_22專題\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.CoreCompileInputs.cache
+C:\Users\林鈞毅\Desktop\11_22專題\CommandDemo2\obj\x86\Debug\CommandDemo2.exe
+C:\Users\林鈞毅\Desktop\11_22專題\CommandDemo2\obj\x86\Debug\CommandDemo2.pdb
+C:\Users\k1232\Downloads\2023_11_22專題\CommandDemo2\bin\Debug\CommandDemo2.exe.config
+C:\Users\k1232\Downloads\2023_11_22專題\CommandDemo2\bin\Debug\CommandDemo2.exe
+C:\Users\k1232\Downloads\2023_11_22專題\CommandDemo2\bin\Debug\CommandDemo2.pdb
+C:\Users\k1232\Downloads\2023_11_22專題\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.AssemblyReference.cache
+C:\Users\k1232\Downloads\2023_11_22專題\CommandDemo2\obj\x86\Debug\CommandDemo2.Form1.resources
+C:\Users\k1232\Downloads\2023_11_22專題\CommandDemo2\obj\x86\Debug\CommandDemo2.Properties.Resources.resources
+C:\Users\k1232\Downloads\2023_11_22專題\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.GenerateResource.cache
+C:\Users\k1232\Downloads\2023_11_22專題\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.CoreCompileInputs.cache
+C:\Users\k1232\Downloads\2023_11_22專題\CommandDemo2\obj\x86\Debug\CommandDemo2.exe
+C:\Users\k1232\Downloads\2023_11_22專題\CommandDemo2\obj\x86\Debug\CommandDemo2.pdb
+C:\Users\林鈞毅\Desktop\2023_11_23專題\2023_11_23專題\CommandDemo2\bin\Debug\CommandDemo2.exe.config
+C:\Users\林鈞毅\Desktop\2023_11_23專題\2023_11_23專題\CommandDemo2\bin\Debug\CommandDemo2.exe
+C:\Users\林鈞毅\Desktop\2023_11_23專題\2023_11_23專題\CommandDemo2\bin\Debug\CommandDemo2.pdb
+C:\Users\林鈞毅\Desktop\2023_11_23專題\2023_11_23專題\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.AssemblyReference.cache
+C:\Users\林鈞毅\Desktop\2023_11_23專題\2023_11_23專題\CommandDemo2\obj\x86\Debug\CommandDemo2.Form1.resources
+C:\Users\林鈞毅\Desktop\2023_11_23專題\2023_11_23專題\CommandDemo2\obj\x86\Debug\CommandDemo2.Properties.Resources.resources
+C:\Users\林鈞毅\Desktop\2023_11_23專題\2023_11_23專題\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.GenerateResource.cache
+C:\Users\林鈞毅\Desktop\2023_11_23專題\2023_11_23專題\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.CoreCompileInputs.cache
+C:\Users\林鈞毅\Desktop\2023_11_23專題\2023_11_23專題\CommandDemo2\obj\x86\Debug\CommandDemo2.exe
+C:\Users\林鈞毅\Desktop\2023_11_23專題\2023_11_23專題\CommandDemo2\obj\x86\Debug\CommandDemo2.pdb
+C:\Users\林鈞毅\Desktop\2023_11_24專題\2023_11_23專題\CommandDemo2\bin\Debug\CommandDemo2.exe.config
+C:\Users\林鈞毅\Desktop\2023_11_24專題\2023_11_23專題\CommandDemo2\bin\Debug\CommandDemo2.exe
+C:\Users\林鈞毅\Desktop\2023_11_24專題\2023_11_23專題\CommandDemo2\bin\Debug\CommandDemo2.pdb
+C:\Users\林鈞毅\Desktop\2023_11_24專題\2023_11_23專題\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.AssemblyReference.cache
+C:\Users\林鈞毅\Desktop\2023_11_24專題\2023_11_23專題\CommandDemo2\obj\x86\Debug\CommandDemo2.Form1.resources
+C:\Users\林鈞毅\Desktop\2023_11_24專題\2023_11_23專題\CommandDemo2\obj\x86\Debug\CommandDemo2.Properties.Resources.resources
+C:\Users\林鈞毅\Desktop\2023_11_24專題\2023_11_23專題\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.GenerateResource.cache
+C:\Users\林鈞毅\Desktop\2023_11_24專題\2023_11_23專題\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.CoreCompileInputs.cache
+C:\Users\林鈞毅\Desktop\2023_11_24專題\2023_11_23專題\CommandDemo2\obj\x86\Debug\CommandDemo2.exe
+C:\Users\林鈞毅\Desktop\2023_11_24專題\2023_11_23專題\CommandDemo2\obj\x86\Debug\CommandDemo2.pdb
+C:\Users\胡家傑\Desktop\2023_11_24專題\2023_11_24專題\CommandDemo2\bin\Debug\CommandDemo2.exe.config
+C:\Users\胡家傑\Desktop\2023_11_24專題\2023_11_24專題\CommandDemo2\bin\Debug\CommandDemo2.exe
+C:\Users\胡家傑\Desktop\2023_11_24專題\2023_11_24專題\CommandDemo2\bin\Debug\CommandDemo2.pdb
+C:\Users\胡家傑\Desktop\2023_11_24專題\2023_11_24專題\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.AssemblyReference.cache
+C:\Users\胡家傑\Desktop\2023_11_24專題\2023_11_24專題\CommandDemo2\obj\x86\Debug\CommandDemo2.Form1.resources
+C:\Users\胡家傑\Desktop\2023_11_24專題\2023_11_24專題\CommandDemo2\obj\x86\Debug\CommandDemo2.Properties.Resources.resources
+C:\Users\胡家傑\Desktop\2023_11_24專題\2023_11_24專題\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.GenerateResource.cache
+C:\Users\胡家傑\Desktop\2023_11_24專題\2023_11_24專題\CommandDemo2\obj\x86\Debug\CommandDemo2.csproj.CoreCompileInputs.cache
+C:\Users\胡家傑\Desktop\2023_11_24專題\2023_11_24專題\CommandDemo2\obj\x86\Debug\CommandDemo2.exe
+C:\Users\胡家傑\Desktop\2023_11_24專題\2023_11_24專題\CommandDemo2\obj\x86\Debug\CommandDemo2.pdb
